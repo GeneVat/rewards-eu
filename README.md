@@ -1,1 +1,1 @@
-Simple app
+European Verison of Rewards genevat.github.io/rewards
