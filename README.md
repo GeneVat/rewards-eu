@@ -1,1 +1,1 @@
-European Verison of Rewards genevat.github.io/rewards
+European Verison of [Rewards](genevat.github.io/rewards)
